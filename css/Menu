@@ -1,0 +1,268 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<table class="center">
+<thead>
+  <tr>
+    <th class="tg-0pky">Sweet</th>
+    <th class="tg-0pky"><span style="font-style:normal">₹ per piece</span> </th>
+    <th class="tg-0pky"><span style="font-style:normal">₹ per Kg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Gur rasgula</td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">120 (10 p Box)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Rasgula</td>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">100 (10 p Box)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Gulab Jamun</td>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">120 (10 p Box)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Balushahi</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Rasmalai</td>
+    <td class="tg-0lax">30</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chena Pies</td>
+    <td class="tg-0lax">30</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kesar Raj Bhog</td>
+    <td class="tg-0lax">18</td>
+    <td class="tg-0lax">90 (5 p Box)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nariyal Barfi</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">320</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Amrit Peda</td>
+    <td class="tg-0lax">18</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Laal peda</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">380</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chandrakala</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Bombay Barfi</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">320</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mast Cake </td>
+    <td class="tg-0lax">10 </td>
+    <td class="tg-0lax">320</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dry Gulab Jamun</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">320</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chena Toast</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Malai Kala Jamun</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gopal Bhog</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kalakand</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Cream Chamcham</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kala Jamun</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dry Rasgulla</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mini Gulab Jamun</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mini Rasgulla</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chena Sakarpala</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ghee Gajar Halwa</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kaju Anarkali</td>
+    <td class="tg-0lax">25</td>
+    <td class="tg-0lax">900</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Anjeer Dry Fruit</td>
+    <td class="tg-0lax">30</td>
+    <td class="tg-0lax">1000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kaju Sandwich</td>
+    <td class="tg-0lax">30</td>
+    <td class="tg-0lax">1000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Khajur rolll</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">560</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Badam Cadbury</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">560</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Khoya Barfi</td>
+    <td class="tg-0lax">10 </td>
+    <td class="tg-0lax">380</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kaju Barfi</td>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">840</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ras Kadam</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mawa Tikiya</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Moti Roll</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fruit Barfi</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ghee Barfi</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dilkhusar</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mawa Pump</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">380</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Hiramani</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">380</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Milk Cake</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">380</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Besan Ladoo</td>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">240</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ladoo</td>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax">140</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Special Ladoo</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">300</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gond Ladoo</td>
+    <td class="tg-0lax">20</td>
+    <td class="tg-0lax">580</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ghee Ladoo</td>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">420</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Moong Dal Ladoo</td>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">400</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dry Ladoo</td>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">200</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Karachi Halwa</td>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">380</td>
+  </tr>
+</tbody>
+</table>
